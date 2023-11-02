@@ -171,6 +171,7 @@ header{
 	width:165px;
 	height: 60px;
 	border: 1px solid #626262;
+	cursor: pointer;
 	background-color: transparent;
 	font-family: 'playfair display' serif;
 	font-weight: 400;
